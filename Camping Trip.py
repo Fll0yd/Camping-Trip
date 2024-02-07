@@ -45,5 +45,3 @@ supplies.remove("sleeping bag")
 print("This item was removed from the list: " + supplies.pop(0))
 
 print (supplies)
-
-
